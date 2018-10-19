@@ -15,4 +15,7 @@ public class node<E> {
     public void setnext(node<E> n){
         next=n;
     }
+    public static void main(String[] args){
+        System.out.println("XD");
+    }
 }
